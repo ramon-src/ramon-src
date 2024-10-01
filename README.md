@@ -3,7 +3,6 @@
 
 ## 🔭 I’m currently working on
 
-- DigiFarmz:
 - EconomizaApp
 
 ## 🌱 I’m currently learning
@@ -11,6 +10,8 @@
 - React Native
 - Application's Performance
 - Product Growth
+- Node.js
+- Infrastructure 
   
 ## 👯 I’m looking to collaborate on
 
@@ -30,9 +31,8 @@
 ## 💬 Ask me about
 
 - Software Architecture
-- Object Oriented Languages doubts
+- Object Oriented Languages
 - Web & Mobile development
-- Nutrition
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramon-src&label=Profile%20views&color=0e75b6&style=flat" alt="ramon-src" /> </p>
