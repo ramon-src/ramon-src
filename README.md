@@ -15,7 +15,7 @@
 - Product Growth Strategy
 - Low cost infrastructure strategies
   
-## 👯 I’m looking to collaborate on
+## I’m looking to collaborate on
 
 - A global open source project 
   
