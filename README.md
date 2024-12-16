@@ -4,14 +4,16 @@
 ## 🔭 I’m currently working on
 
 - EconomizaApp
+- Simplifica Psi
+- Rooster
+- The Indie Hive
 
 ## 🌱 I’m currently learning
 
 - React Native
 - Application's Performance
-- Product Growth
-- Node.js
-- Infrastructure 
+- Product Growth Strategy
+- Low cost infrastructure strategies
   
 ## 👯 I’m looking to collaborate on
 
