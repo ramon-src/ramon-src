@@ -3,10 +3,10 @@
 
 ## 🔭 I’m currently working on
 
-- EconomizaApp
 - Simplifica Psi
 - Rooster
 - The Indie Hive
+- Economiza App
 
 ## 🌱 I’m currently learning
 
