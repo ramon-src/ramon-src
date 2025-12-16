@@ -3,21 +3,18 @@
 
 ## 🔭 I’m currently working on
 
+- Rooster AI
+- EternalSteps
 - Simplifica Psi
-- Rooster
 - The Indie Hive
-- Economiza App
 
 ## 🌱 I’m currently learning
 
-- React Native
 - Application's Performance
 - Product Growth Strategy
 - Low cost infrastructure strategies
+- Scalable Infrastructure
   
-## I’m looking to collaborate on
-
-- A global open source project 
   
 ## 📫 How to reach me
 
@@ -32,7 +29,7 @@
 
 ## 💬 Ask me about
 
-- Software Architecture
+- Software Architecture and Infra
 - Object Oriented Languages
 - Web & Mobile development
 
